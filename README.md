@@ -1,9 +1,11 @@
-# GTA_Fingerprint_Macro
-This simple project is fingerprint hacking macro in GTA Diamond Casino Heist.
+# Win32API_opencv_GTA_Macro
+
+
+This simple project is fingerprint hacking macro in GTA with Win32API and Opencv
 
 
 
-Project require library
+require
 
 opencv-python, 
 pywin32, 
