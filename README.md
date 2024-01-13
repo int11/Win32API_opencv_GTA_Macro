@@ -5,7 +5,7 @@ This simple project is fingerprint hacking macro in GTA with Win32API and Opencv
 
 
 
-require
+# require
 
 opencv-python, 
 pywin32, 
